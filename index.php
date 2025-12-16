@@ -1,3 +1,8 @@
+
+<?php
+session_start();
+$_SESSION['userconnecte']= 'Fatou';
+?>
 <!DOCTYPE html>
 <html lang="fr">
 
