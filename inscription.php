@@ -26,14 +26,11 @@
                     <input type="email" name="email" id="email" placeholder="exemple@email.com" required />
                 </div>
                 
-                <div class="form-group">
-                    <label for="message">Message</label>
-                    <textarea rows="5" name="message" id="message" placeholder="Votre message..." required></textarea>
-                </div>
+               
                 
                 <div class="form-group checkbox-group">
                     <label class="checkbox-label">
-                        <input type="checkbox" name="newsletter" id="newsletter" value="oui" />
+                        <input type="checkbox" name="newsletter" id="newsletter" value="1" />
                         <span>S'inscrire à la newsletter</span>
                     </label>
                 </div>
